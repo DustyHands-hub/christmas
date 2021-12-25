@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+   /* border: lightblue 2px solid;*/
 }
 
  /* Dashed border */
@@ -44,4 +45,12 @@
 li {
     display: inline;
     margin: 10px;
+}
+
+.gospel {
+    font-size: larger;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
