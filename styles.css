@@ -27,7 +27,7 @@
 .mainHeader {
     text-align: center;
     background-color: green;
-    color: #a30505;
+    color: firebrick;
 }
 
 .navlinks {
@@ -53,4 +53,6 @@ li {
     padding-right: 50px;
     padding-top: 0px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: papayawhip;
+    color: maroon;
 }
