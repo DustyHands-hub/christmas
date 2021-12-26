@@ -73,3 +73,10 @@ li {
         text-align:center;
   		width:100%;
 }
+
+/* Responsive navigation menu - display links on top of each other instead of next to each other (for mobile devices) */
+@media screen and (max-width: 600px) {
+    .topnav a {
+      float: none;
+      display: block;
+    }
